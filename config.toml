@@ -1,0 +1,26 @@
+baseURL = "https://financialtime.ca"
+languageCode = "en-us"
+title = "Financial time"
+paginate = "5"
+theme = "mainroad"
+icon= "email.svg"
+
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "Financial-Time-109468137538152"
+  instagram = "username"
+  email = "Financial.time0@gmail.com"
+  
+
