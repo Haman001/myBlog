@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Financial time</title>
+    <link>https://financialtime.ca/categories/</link>
+    <description>Recent content in Categories on Financial time</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 15:34:44 -0600</lastBuildDate>
+    
+	<atom:link href="https://financialtime.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Financial literacy</title>
+      <link>https://financialtime.ca/categories/financial-literacy/</link>
+      <pubDate>Sun, 10 May 2020 15:34:44 -0600</pubDate>
+      
+      <guid>https://financialtime.ca/categories/financial-literacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learn more</title>
+      <link>https://financialtime.ca/categories/learn-more/</link>
+      <pubDate>Sun, 10 May 2020 15:34:44 -0600</pubDate>
+      
+      <guid>https://financialtime.ca/categories/learn-more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>money saving</title>
+      <link>https://financialtime.ca/categories/money-saving/</link>
+      <pubDate>Sun, 10 May 2020 15:34:44 -0600</pubDate>
+      
+      <guid>https://financialtime.ca/categories/money-saving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

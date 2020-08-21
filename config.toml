@@ -1,5 +1,7 @@
 baseURL = "https://financialtime.ca"
 languageCode = "en-us"
+themeDir = "themes"
+publishDir = "docs"
 title = "Financial time"
 paginate = "5"
 theme = "mainroad"
