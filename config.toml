@@ -1,4 +1,4 @@
-baseURL = "https://financialtime.ca"
+baseURL = "https://haman001.github.io/myBlog/"
 languageCode = "en-us"
 themeDir = "themes"
 publishDir = "docs"
